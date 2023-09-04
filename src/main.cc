@@ -1,6 +1,6 @@
 #include <cstring>
 #include <iostream>
-#include "new.h"
+#include "trike_new.h"
 
 int main (int argc, char *argv[]) {
   if (argc == 1) {
